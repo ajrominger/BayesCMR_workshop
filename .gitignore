@@ -11,3 +11,6 @@
 
 # Development materials
 dev_materials/*
+.Rproj.user
+
+.DS_Store
